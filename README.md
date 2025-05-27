@@ -1,7 +1,22 @@
 # r7c-jaxb-utils
 
-A collection of custom JAXB utils for jaxb2 plugins to generate enhanced java 
+A collection of custom JAXB utils for jaxb2 plugins to generate enhanced java
 classes from the JAXB schema bindings.   
+
+
+== Build badges
+![Java CI](https://github.com/jrihtarsic/ddlgen-maven-plugin/workflows/Java%20CI/badge.svg)
+
+
+| Sonar Maintability Rating | Sonar Reliability Rating | Sonar Security Rating | Sonar Bugs Count | Sonar Vulnerabilities Count |
+|--------------------------|-------------------------|----------------------|------------------|----------------------------|
+| ![Maintability](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=sqale_rating) | ![Reliability](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=reliability_rating) | ![Security](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=security_rating) | ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=bugs) | ![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=vulnerabilities) |
+
+https://sonarcloud.io/dashboard?id=jrihtarsic_r7c-jaxb-utils
+
+
+
+
 
 ## Features
 
