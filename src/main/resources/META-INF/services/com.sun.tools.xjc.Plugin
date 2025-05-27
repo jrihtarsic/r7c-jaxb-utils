@@ -1,0 +1,3 @@
+org.r7c.jaxb.EqualPlugin
+org.r7c.jaxb.HashCodePlugin
+org.r7c.jaxb.PropertyNamesPlugin
