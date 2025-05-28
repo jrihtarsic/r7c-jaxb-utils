@@ -4,7 +4,7 @@ A collection of custom JAXB utils for jaxb2 plugins to generate enhanced java
 classes from the JAXB schema bindings.   
 
 
-== Build badges
+## Build badges
 ![Java CI](https://github.com/jrihtarsic/ddlgen-maven-plugin/workflows/Java%20CI/badge.svg)
 
 
@@ -12,11 +12,11 @@ classes from the JAXB schema bindings.
 |--------------------------|-------------------------|----------------------|------------------|----------------------------|
 | ![Maintability](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=sqale_rating) | ![Reliability](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=reliability_rating) | ![Security](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=security_rating) | ![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=bugs) | ![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=vulnerabilities) |
 
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jrihtarsic_r7c-jaxb-utils&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jrihtarsic_r7c-jaxb-utils)
+
+[![Maven Central](https://img.shields.io/maven-central/v/com.as4mail.jaxb/jaxb-utils.svg?label=Maven%20Central)](https://search.maven.org/artifact/org.r7c.maven.tools/jaxb-utils)
 https://sonarcloud.io/dashboard?id=jrihtarsic_r7c-jaxb-utils
-
-
-
-
 
 ## Features
 
