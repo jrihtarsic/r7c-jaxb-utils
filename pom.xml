@@ -3,7 +3,7 @@
     <groupId>org.r7c.maven.tools</groupId>
     <artifactId>r7c-jaxb-utils</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>r7c JAXB Plugin utils</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,7 +27,7 @@
         <developerConnection>scm:git:https://github.com/jrihtarsic/r7c-jaxb-utils.git</developerConnection>
         <connection>scm:git:https://github.com/jrihtarsic/r7c-jaxb-utils.git</connection>
         <url>http://github.com/jrihtarsic/r7c-jaxb-utils/tree/master</url>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <!-- PLUGINS -->
     <dependencies>
