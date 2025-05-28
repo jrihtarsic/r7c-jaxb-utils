@@ -6,6 +6,8 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>r7c JAXB Plugin utils</name>
+    <description>A collection of custom JAXB utils for jaxb2 plugins to generate enhanced java classes from the JAXB schema bindings.</description>
+    <url>https://github.com/jrihtarsic/r7c-jaxb-utils</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
@@ -22,14 +24,26 @@
         <org.glassfish.jaxb.version>4.0.5</org.glassfish.jaxb.version>
         <junit-jupiter.version>5.12.2</junit-jupiter.version>
         <mockito.version>5.18.0</mockito.version>
-
     </properties>
+    <licenses>
+        <license>
+            <name>EUPL [European Union Public Licence] 1.2</name>
+            <url>https://eupl.eu/</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Joze Rihtarsic</name>
+            <url>https://github.com/jrihtarsic/</url>
+        </developer>
+    </developers>
     <scm>
         <developerConnection>scm:git:https://github.com/jrihtarsic/r7c-jaxb-utils.git</developerConnection>
         <connection>scm:git:https://github.com/jrihtarsic/r7c-jaxb-utils.git</connection>
         <url>http://github.com/jrihtarsic/r7c-jaxb-utils/tree/master</url>
         <tag>HEAD</tag>
     </scm>
+
     <!-- PLUGINS -->
     <dependencies>
         <dependency>
@@ -95,9 +109,9 @@
                     <version>${plugin.central-publishing-maven-plugin.version}</version>
                 </plugin>
                 <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-gpg-plugin</artifactId>
-                <version>${plugin.maven-gpg-plugin.version}</version>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-gpg-plugin</artifactId>
+                    <version>${plugin.maven-gpg-plugin.version}</version>
                 </plugin>
             </plugins>
         </pluginManagement>
