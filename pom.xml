@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <!-- PLUGIN VERSIONS -->
         <plugin.maven-compiler-plugin.version>3.14.0</plugin.maven-compiler-plugin.version>
-        <plugin.versions-maven-plugin.version>2.18.0</plugin.versions-maven-plugin.version>
+        <plugin.versions-maven-plugin.version>2.19.0</plugin.versions-maven-plugin.version>
         <plugin.jacoco-maven-plugin.version>0.8.13</plugin.jacoco-maven-plugin.version>
         <plugin.central-publishing-maven-plugin.version>0.7.0</plugin.central-publishing-maven-plugin.version>
         <plugin.maven-gpg-plugin.version>3.2.7</plugin.maven-gpg-plugin.version>
